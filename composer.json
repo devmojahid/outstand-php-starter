@@ -1,0 +1,19 @@
+{
+    "name": "mojahid/outstand-php-starter",
+    "description": "This Is A Starter Package using cure php and it's look like a laravel",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mojahid Islam",
+            "email": "raofahmedmojahid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
